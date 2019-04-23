@@ -17,8 +17,6 @@ count-= 1
 sleep 1
  if count == 0 
     return "HAPPY NEW YEAR!"
-sleep 1
- 
   end
 end
 end
